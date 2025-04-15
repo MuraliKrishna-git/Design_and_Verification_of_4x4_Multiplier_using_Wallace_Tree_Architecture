@@ -1,0 +1,5 @@
+Time resolution is 1 ps
+A = 1011, B = 1100, P = 00001100
+A = 0101, B = 0011, P = 00000001
+A = 1111, B = 1111, P = 00010101
+$stop called at time : 30 ns : File "D:/Vivado/Design_and_Verification_of_4x4_Multiplier_using_Wallace_Tree_Architecture.srcs/sim_1/new/testbench.sv" Line 30
